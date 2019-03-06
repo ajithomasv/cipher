@@ -1,3 +1,6 @@
+//  Date Created  :-  20150410
+//  Description   :-  This Java program encryptes and decryptes a password using private key
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
