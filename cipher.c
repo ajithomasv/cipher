@@ -1,10 +1,5 @@
-/*___________________________________________________________________________________*
-*                                                                                    *
-*  Author        :-  Ajit Isack                                                      *
-*  Date Created  :-  20130221                                                        *
-*  Description   :-  This C program encryptes and decryptes a password using private *
-*                    key                                                             *
-*____________________________________________________________________________________*/
+//  Date Created  :-  20130221
+//  Description   :-  This C program encryptes and decryptes a password using private key
 
 #include <time.h>
 #include <stdlib.h>
